@@ -1,5 +1,5 @@
 let cantTareas = Number(prompt("Cantidad de tareas:"));
-let listaTareas = "Lista Tareas:\n"
+let listaTareas = "Lista Tareas:\n************\n"
 
 let init = () => {
     for (i=0; i<=cantTareas-1; i++) {
